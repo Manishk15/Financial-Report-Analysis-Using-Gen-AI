@@ -1,0 +1,13 @@
+langchain
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+streamlit-extras
+opensearch-py
+PyMuPdf==1.24.5
+PyMuPDFb==1.24.3
+pandas
+vertexai
+google-generativeai
+langchain-community
